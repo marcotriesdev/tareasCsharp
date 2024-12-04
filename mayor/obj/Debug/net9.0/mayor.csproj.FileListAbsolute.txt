@@ -1,0 +1,14 @@
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\bin\Debug\net9.0\mayor.exe
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\bin\Debug\net9.0\mayor.deps.json
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\bin\Debug\net9.0\mayor.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\bin\Debug\net9.0\mayor.dll
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\bin\Debug\net9.0\mayor.pdb
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\obj\Debug\net9.0\mayor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\obj\Debug\net9.0\mayor.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\obj\Debug\net9.0\mayor.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\obj\Debug\net9.0\mayor.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\obj\Debug\net9.0\mayor.dll
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\obj\Debug\net9.0\refint\mayor.dll
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\obj\Debug\net9.0\mayor.pdb
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\obj\Debug\net9.0\mayor.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\primer tarea\mayor\obj\Debug\net9.0\ref\mayor.dll

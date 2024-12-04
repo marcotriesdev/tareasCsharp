@@ -1,0 +1,14 @@
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\bin\Debug\net9.0\radio.exe
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\bin\Debug\net9.0\radio.deps.json
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\bin\Debug\net9.0\radio.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\bin\Debug\net9.0\radio.dll
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\bin\Debug\net9.0\radio.pdb
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\obj\Debug\net9.0\radio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\obj\Debug\net9.0\radio.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\obj\Debug\net9.0\radio.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\obj\Debug\net9.0\radio.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\obj\Debug\net9.0\radio.dll
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\obj\Debug\net9.0\refint\radio.dll
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\obj\Debug\net9.0\radio.pdb
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\obj\Debug\net9.0\radio.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\primer tarea\radio\obj\Debug\net9.0\ref\radio.dll

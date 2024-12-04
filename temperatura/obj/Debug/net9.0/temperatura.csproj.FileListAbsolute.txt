@@ -1,0 +1,14 @@
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\bin\Debug\net9.0\temperatura.exe
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\bin\Debug\net9.0\temperatura.deps.json
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\bin\Debug\net9.0\temperatura.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\bin\Debug\net9.0\temperatura.dll
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\bin\Debug\net9.0\temperatura.pdb
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\obj\Debug\net9.0\temperatura.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\obj\Debug\net9.0\temperatura.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\obj\Debug\net9.0\temperatura.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\obj\Debug\net9.0\temperatura.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\obj\Debug\net9.0\temperatura.dll
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\obj\Debug\net9.0\refint\temperatura.dll
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\obj\Debug\net9.0\temperatura.pdb
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\obj\Debug\net9.0\temperatura.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\primer tarea\temperatura\obj\Debug\net9.0\ref\temperatura.dll
